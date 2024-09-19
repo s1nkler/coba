@@ -3,7 +3,7 @@ import 'dart:io';
 
 void main(List<String> arguments) {
   print('Welcome to GD satyo Dart!');
-  print('=================erererr========');
+  print('=================erererr===sinkler ganteng=====');
   print('----------Login----------');
   stdout.write('Username: ');
   String? username = stdin.readLineSync();
